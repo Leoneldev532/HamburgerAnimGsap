@@ -10,7 +10,7 @@ const spaceGrotesk = Space_Grotesk({
   display: "swap",
 });
 
-// klfdgjs;dfjgl; kldfdj;jg dfslkgfsd;l dflg;lj' fdl;sgjfdg;lk fkl;dgjdsl; ldfk;sgjl;
+
 
 export const metadata: Metadata = {
   title: "Create Next App",
