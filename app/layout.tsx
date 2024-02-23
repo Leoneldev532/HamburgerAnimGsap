@@ -10,7 +10,7 @@ const spaceGrotesk = Space_Grotesk({
   display: "swap",
 });
 
-
+// c etait juste un test
 
 export const metadata: Metadata = {
   title: "Create Next App",
